@@ -31,11 +31,14 @@ I recently earned an Associate of Science in Cybersecurity & Networking and am a
 
 ### Operating Systems
 
-• Windows 10/11<br>
-• Windows Server 2019<br>
-• Kali Linux<br>
-• 🖥️ Enterprise Active Directory & RBAC Lab<br>
-• 🔐 Service Desk Password Reset
+💻 Windows 10/11<br>
+🖥️ Windows Server 2019<br>
+🐧 Kali Linux<br>
+🔐 Active Directory<br>
+🌐 DNS<br>
+🎫 Ticket Documentation<br>
+
+---
 
 ### Identity & Access Management
 
@@ -45,6 +48,8 @@ I recently earned an Associate of Science in Cybersecurity & Networking and am a
 • Password Management<br>
 • Group Management
 
+---
+
 ### Networking
 
 • DNS<br>
@@ -53,6 +58,8 @@ I recently earned an Associate of Science in Cybersecurity & Networking and am a
 • Shared Drives<br>
 • TCP/IP Fundamentals
 
+---
+
 ### Service Desk
 
 • Ticket Documentation<br>
@@ -60,6 +67,8 @@ I recently earned an Associate of Science in Cybersecurity & Networking and am a
 • Incident Resolution<br>
 • Customer Support<br>
 • Root Cause Analysis
+
+---
 
 ### Tools
 
