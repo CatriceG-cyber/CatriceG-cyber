@@ -6,18 +6,8 @@ IT Support | Service Desk | Identity & Access Management
 
 Hands-on IT Support portfolio featuring Windows Server, Active Directory, Linux, networking, and service desk troubleshooting projects.
 
-<p align="center">
-  <img src="IAMbanner.png" alt="Catrice Goodlett Banner" width="100%">
-</p>
 
-+---------------------------------------------------------+
-|                                                         |
-|             CATRICE GOODLETT                            |
-|      IT SUPPORT • SERVICE DESK • IAM                    |
-|                                                         |
-|  Windows • Active Directory • Linux • Networking        |
-|                                                         |
-+---------------------------------------------------------+
+
 
 ## 📝 About Me
 
