@@ -2,15 +2,6 @@
 
 <img src="Catcyberbanner.png" alt="Catrice Goodlett GitHub Banner" width="100%">
 
-# Hi, I'm Catrice Goodlett 👋
-
-IT Support | Service Desk | Identity & Access Management
-
-Hands-on IT Support portfolio featuring Windows Server, Active Directory, Linux, networking, and service desk troubleshooting projects.
-
-</div>
-
-
 
 <div align="center">
 
