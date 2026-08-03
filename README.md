@@ -5,8 +5,7 @@
 IT Support | Service Desk | Identity & Access Management
 
 Hands-on IT Support portfolio featuring Windows Server, Active Directory, Linux, networking, and service desk troubleshooting projects.
-
-<div style="width: fit-content; margin: 0 auto; text-align: center;">
+</div>
 
 
 ## 📝 About Me
@@ -24,7 +23,7 @@ I recently earned an Associate of Science in Cybersecurity & Networking and am a
   🐧 <a href="https://github.com/CatriceG-cybeer/Kali-Linux-Shared-Folder-Configuration">Kali Linux Shared Folder Configuration</a><br>
   🏢 <a href="https://github.com/CatriceG-cyber/Basic-Employee-Onboarding-AD-RBAC">Active Directory Employee Onboarding</a>
 </p>
-</div>
+
 
 ## 🛠 Technical Experience
 
@@ -53,15 +52,15 @@ I recently earned an Associate of Science in Cybersecurity & Networking and am a
 - Ticket Documentation
 - - Troubleshooting
 - Incident Resolution
-- - Customer Support
+- Customer Support
 - Root Cause Analysis
 
 **Tools**
-- VirtualBox
-- Git
-- GitHub
-- Microsoft Office
-- Loom
+VirtualBox
+Git
+GitHub
+Microsoft Office
+Loom
 
 ---
 
