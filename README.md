@@ -13,7 +13,7 @@ Hands-on IT Support portfolio featuring Windows Server, Active Directory, Linux,
 
 ## 📝 About Me
 
-I recently earned an Associate of Science in Cybersecurity & Networking and am actively pursuing my first IT Support opportunity. My portfolio showcases hands-on labs in Windows Server, Active Directory, Linux, and Help Desk support.
+I earned an Associate of Science in Cybersecurity & Networking and am actively pursuing my first IT Support opportunity. My portfolio showcases hands-on labs in Windows Server, Active Directory, Linux, and Help Desk support while I continue expanding my technical skills.
 
 ---
 
