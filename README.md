@@ -25,13 +25,17 @@ I recently earned an Associate of Science in Cybersecurity & Networking and am a
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-- 🪪 [IAM Department Transfer](https://github.com/CatriceG-cyber/IAM-Department-Transfer)
-- 🔑 [Service Desk Password Reset](https://github.com/CatriceG-cyber/Service-Desk-Password-Reset)
-- 🖨️ [Office-Wide Printer Outage](https://github.com/CatriceG-cyber/Service-Desk-Ticket-Printer-Offline)
-- 🐧 [Kali Linux Shared Folder Configuration](https://github.com/CatriceG-cyber/Kali-Linux-Shared-Folder-Configuration)
-- 🏢 [Active Directory Employee Onboarding](https://github.com/CatriceG-cyber/Basic-Employee-Onboarding-AD-RBAC)
+<p align="center">
+  🪪 <a href="https://github.com/CatriceG-cyber/IAM-Department-Transfer">IAM Department Transfer</a><br>
+  🔑 <a href="https://github.com/CatriceG-cyber/Service-Desk-Password-Reset">Service Desk Password Reset</a><br>
+  🖨️ <a href="https://github.com/CatriceG-cyber/Service-Desk-Ticket-Printer-Offline">Office-Wide Printer Outage</a><br>
+  🐧 <a href="https://github.com/CatriceG-cybeer/Kali-Linux-Shared-Folder-Configuration">Kali Linux Shared Folder Configuration</a><br>
+  🏢 <a href="https://github.com/CatriceG-cyber/Basic-Employee-Onboarding-AD-RBAC">Active Directory Employee Onboarding</a>
+</p>
+
+
 
 
 
