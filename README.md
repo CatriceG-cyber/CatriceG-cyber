@@ -32,39 +32,39 @@ I recently earned an Associate of Science in Cybersecurity & Networking and am a
 ## 🛠 Technical Experience
 
 **Operating Systems**
-> - Windows 10/11
-> - Windows Server 2019
-> - Kali Linux
-> - 🖥️ Enterprise Active Directory & RBAC Lab
-> - 🔐 Service Desk Password Reset 
+- Windows 10/11
+- Windows Server 2019
+- Kali Linux
+- - 🖥️ Enterprise Active Directory & RBAC Lab
+- 🔐 Service Desk Password Reset 
 
 **Identity & Access Management**
-> - Active Directory
-> - User Provisioning
-> - RBAC
-> - Password Management
-> - Group Management
+- Active Directory
+- User Provisioning
+- RBAC
+- Password Management
+- Group Management
 
 **Networking**
-> - DNS
-> - DHCP
-> - VPN
-> - Shared Drives
-> - TCP/IP Fundamentals
+- DNS
+- DHCP
+- VPN
+- Shared Drives
+- TCP/IP Fundamentals
 
 **Service Desk**
-> - Ticket Documentation
-> - Troubleshooting
-> - Incident Resolution
-> - Customer Support
-> - Root Cause Analysis
+- Ticket Documentation
+- - Troubleshooting
+- Incident Resolution
+- - Customer Support
+- Root Cause Analysis
 
 **Tools**
-> - VirtualBox
-> - Git
-> - GitHub
-> - Microsoft Office
-> - Loom
+- VirtualBox
+- Git
+- GitHub
+- Microsoft Office
+- Loom
 
 ---
 
