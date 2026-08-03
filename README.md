@@ -34,9 +34,6 @@ I recently earned an Associate of Science in Cybersecurity & Networking and am a
 💻 Windows 10/11<br>
 🖥️ Windows Server 2019<br>
 🐧 Kali Linux<br>
-🔐 Active Directory<br>
-🌐 DNS<br>
-🎫 Ticket Documentation<br>
 
 ---
 
