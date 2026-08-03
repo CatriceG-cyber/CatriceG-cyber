@@ -7,7 +7,7 @@ IT Support | Service Desk | Identity & Access Management
 Hands-on IT Support portfolio featuring Windows Server, Active Directory, Linux, networking, and service desk troubleshooting projects.
 
 <p align="center">
-  <img src="images/IAMbanner.png" alt="Catrice Goodlett Banner" width="100%">
+  <img src="IAMbanner.png" alt="Catrice Goodlett Banner" width="100%">
 </p>
 
 +---------------------------------------------------------+
@@ -32,6 +32,7 @@ I recently earned an Associate of Science in Cybersecurity & Networking and am a
 - 🖨️ [Office-Wide Printer Outage](https://github.com/CatriceG-cyber/Service-Desk-Ticket-Printer-Offline)
 - 🐧 [Kali Linux Shared Folder Configuration](https://github.com/CatriceG-cyber/Kali-Linux-Shared-Folder-Configuration)
 - 🏢 [Active Directory Employee Onboarding](https://github.com/CatriceG-cyber/Basic-Employee-Onboarding-AD-RBAC)
+
 
 
 ## 🛠 Technical Experience
