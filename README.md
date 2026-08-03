@@ -24,6 +24,7 @@ I recently earned an Associate of Science in Cybersecurity & Networking and am a
   🐧 <a href="https://github.com/CatriceG-cybeer/Kali-Linux-Shared-Folder-Configuration">Kali Linux Shared Folder Configuration</a><br>
   🏢 <a href="https://github.com/CatriceG-cyber/Basic-Employee-Onboarding-AD-RBAC">Active Directory Employee Onboarding</a>
 </p>
+</div>
 
 ## 🛠 Technical Experience
 
