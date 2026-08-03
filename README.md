@@ -6,7 +6,7 @@ IT Support | Service Desk | Identity & Access Management
 
 Hands-on IT Support portfolio featuring Windows Server, Active Directory, Linux, networking, and service desk troubleshooting projects.
 
-<div style="width: fit-content; margin: 0 auto; text-align: left;">
+<div style="width: fit-content; margin: 0 auto; text-align: center;">
 
 
 ## 📝 About Me
