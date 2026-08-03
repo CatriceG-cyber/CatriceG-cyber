@@ -42,42 +42,42 @@ I recently earned an Associate of Science in Cybersecurity & Networking and am a
 
 ### Identity & Access Management
 
-🔐 Active Directory
-👤 User Provisioning
-🛡️ RBAC
-🔑 Password Management
-👥 Group Management
+🔐 Active Directory<br>
+👤 User Provisioning<br>
+🛡️ RBAC<br>
+🔑 Password Management<br>
+👥 Group Management<br>
 
 ---
 
 ### Networking
 
-🌐 DNS
-📡 DHCP
-🔒 VPN
-📁 Shared Drives
-🔗 TCP/IP Fundamentals
+🌐 DNS<br>
+📡 DHCP<br>
+🔒 VPN<br>
+📁 Shared Drives<br>
+🔗 TCP/IP Fundamentals<br>
 
 ---
 
 ### Service Desk
 
-🎫 Ticket Documentation
-🛠️ Troubleshooting
-🚨 Incident Resolution
-🤝 Customer Support
-🔍 Root Cause Analysis
+🎫 Ticket Documentation<br>
+🛠️ Troubleshooting<br>
+🚨 Incident Resolution<br>
+🤝 Customer Support<br>
+🔍 Root Cause Analysis<br>
 
 ---
 
 ### Tools
 
 
-💻 VirtualBox
-🌿 Git
-🐙 GitHub
-📊 Microsoft Office
-🎥 Loom
+💻 VirtualBox<br>
+🌿 Git<br>
+🐙 GitHub<br>
+📊 Microsoft Office<br>
+🎥 Loom<br>
 
 ---
 
