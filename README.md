@@ -5,8 +5,6 @@
 IT Support | Service Desk | Identity & Access Management
 
 Hands-on IT Support portfolio featuring Windows Server, Active Directory, Linux, networking, and service desk troubleshooting projects.
-</div>
-
 
 ## 📝 About Me
 
@@ -14,67 +12,64 @@ I recently earned an Associate of Science in Cybersecurity & Networking and am a
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
-<p align="center">
-  🪪 <a href="https://github.com/CatriceG-cyber/IAM-Department-Transfer">IAM Department Transfer</a><br>
-  🔑 <a href="https://github.com/CatriceG-cyber/Service-Desk-Password-Reset">Service Desk Password Reset</a><br>
-  🖨️ <a href="https://github.com/CatriceG-cyber/Service-Desk-Ticket-Printer-Offline">Office-Wide Printer Outage</a><br>
-  🐧 <a href="https://github.com/CatriceG-cybeer/Kali-Linux-Shared-Folder-Configuration">Kali Linux Shared Folder Configuration</a><br>
-  🏢 <a href="https://github.com/CatriceG-cyber/Basic-Employee-Onboarding-AD-RBAC">Active Directory Employee Onboarding</a>
-</p>
+🪪 <a href="https://github.com/CatriceG-cyber/IAM-Department-Transfer">IAM Department Transfer</a><br>
+🔑 <a href="https://github.com/CatriceG-cyber/Service-Desk-Password-Reset">Service Desk Password Reset</a><br>
+🖨️ <a href="https://github.com/CatriceG-cyber/Service-Desk-Ticket-Printer-Offline">Office-Wide Printer Outage</a><br>
+🐧 <a href="https://github.com/CatriceG-cyber/Kali-Linux-Shared-Folder-Configuration">Kali Linux Shared Folder Configuration</a><br>
+🏢 <a href="https://github.com/CatriceG-cyber/Basic-Employee-Onboarding-AD-RBAC">Active Directory Employee Onboarding</a>
 
-<div align="center">
+---
+
 ## 🛠 Technical Experience
 
-**Operating Systems**
-- Windows 10/11
-- Windows Server 2019
-- Kali Linux
-- 🖥️ Enterprise Active Directory & RBAC Lab
-- 🔐 Service Desk Password Reset 
+### Operating Systems
 
-**Identity & Access Management**
-- Active Directory
-- User Provisioning
-- RBAC
-- Password Management
-- Group Management
+• Windows 10/11<br>
+• Windows Server 2019<br>
+• Kali Linux<br>
+• 🖥️ Enterprise Active Directory & RBAC Lab<br>
+• 🔐 Service Desk Password Reset
 
-**Networking**
-- DNS
-- DHCP
-- VPN
-- Shared Drives
-- TCP/IP Fundamentals
+### Identity & Access Management
 
-**Service Desk**
-- Ticket Documentation
-- - Troubleshooting
-- Incident Resolution
-- Customer Support
-- Root Cause Analysis
+• Active Directory<br>
+• User Provisioning<br>
+• RBAC<br>
+• Password Management<br>
+• Group Management
 
-**Tools**
-VirtualBox
-Git
-GitHub
-Microsoft Office
-Loom
+### Networking
+
+• DNS<br>
+• DHCP<br>
+• VPN<br>
+• Shared Drives<br>
+• TCP/IP Fundamentals
+
+### Service Desk
+
+• Ticket Documentation<br>
+• Troubleshooting<br>
+• Incident Resolution<br>
+• Customer Support<br>
+• Root Cause Analysis
+
+### Tools
+
+• VirtualBox<br>
+• Git<br>
+• GitHub<br>
+• Microsoft Office<br>
+• Loom
 
 ---
 
 ## 🎓 Education
 
 **Associate of Science – Cybersecurity & Networking**  
-Long Beach City College 
-</div>
-
----
-
-
-
-
+Long Beach City College
 
 ---
 
