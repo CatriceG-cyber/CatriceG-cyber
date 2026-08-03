@@ -25,17 +25,13 @@ I recently earned an Associate of Science in Cybersecurity & Networking and am a
   🏢 <a href="https://github.com/CatriceG-cyber/Basic-Employee-Onboarding-AD-RBAC">Active Directory Employee Onboarding</a>
 </p>
 
-
-
-
-
 ## 🛠 Technical Experience
 
 **Operating Systems**
 - Windows 10/11
 - Windows Server 2019
 - Kali Linux
-- - 🖥️ Enterprise Active Directory & RBAC Lab
+- 🖥️ Enterprise Active Directory & RBAC Lab
 - 🔐 Service Desk Password Reset 
 
 **Identity & Access Management**
