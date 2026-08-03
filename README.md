@@ -24,7 +24,7 @@ I recently earned an Associate of Science in Cybersecurity & Networking and am a
   🏢 <a href="https://github.com/CatriceG-cyber/Basic-Employee-Onboarding-AD-RBAC">Active Directory Employee Onboarding</a>
 </p>
 
-
+<div align="center">
 ## 🛠 Technical Experience
 
 **Operating Systems**
@@ -67,7 +67,8 @@ Loom
 ## 🎓 Education
 
 **Associate of Science – Cybersecurity & Networking**  
-Long Beach City College
+Long Beach City College 
+</div>
 
 ---
 
